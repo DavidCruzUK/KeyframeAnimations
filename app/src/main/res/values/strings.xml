@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">KeyframeAnimations</string>
     <string name="wohoo_txt">Wohoo!</string>
+    <string name="whatsapp">WhatsApp!</string>
 </resources>
